@@ -1,0 +1,14 @@
+DiD Regression: US Investment and Afghanistan GDP per Capita	
+	(1)
+VARIABLES	Log GDP per Capita
+	
+did_term	0.103
+	(0.158)
+Constant	5.455***
+	(0.132)
+	
+Observations	228
+Number of country_id	8
+R-squared	0.840
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
