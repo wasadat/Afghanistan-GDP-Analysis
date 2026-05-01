@@ -26,3 +26,6 @@ No statistically significant differential effect was found (DiD coefficient = 0.
 # Data Source
 World Bank Open Data. US spending figure ($145B) sourced from 
 SIGAR Quarterly Report to Congress.
+
+Data can be downloaded directly from:
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
