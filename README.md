@@ -19,9 +19,9 @@ No statistically significant differential effect was found (DiD coefficient = 0.
 - Clustered standard errors at country level
 
 # Files
-- code/analysis.do — full Stata do-file reproducing all results
-- output/gdp_trends.png — main trend visualization
-- brief/afghanistan_policy_brief.pdf — one-page policy summary
+- afghanistan_workdo — full Stata do-file reproducing all results
+- afghanistan_graph.png — main trend visualization
+- afghanistan_policy_brief.pdf — one-page policy summary
 
 # Data Source
 World Bank Open Data. US spending figure ($145B) sourced from 
